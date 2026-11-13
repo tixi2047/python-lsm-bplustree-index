@@ -1,4 +1,4 @@
-# 🌲 LSM-Tree & B+ Tree Indexing Engine in Python
+# 🌲 LSM-Tree
 
 ## 📖 About the Project
 
