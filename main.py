@@ -149,7 +149,7 @@ class LSMIndex:
     def __init__(self, index_name: str):
         self.index_name = index_name
         self.levels = [0, 1, 2]
-        self.capacities = {0: 10, 1: 20, 2: 9000}
+        self.capacities = {0: 1000, 1: 3000, 2: 9000}
         self.trees = {}
 
         index_dir = "lsm_indexes"
