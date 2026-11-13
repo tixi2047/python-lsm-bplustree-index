@@ -8,7 +8,7 @@ This project implements a lightweight database indexing and query engine in Pyth
 
 ## ✨ Key Features
 
-* 🗂️ **LSM Indexing:** Multi-level indexing (Level 0, Level 1, Level 2) with automated flushing and merge logic.
+* 🗂️ **LSM Indexing:** Multi-level indexing with automated flushing and merge logic.
 * 🔍 **Advanced Query Parser:** Supports logical conditions across multiple columns.
 * 📊 **Aggregations:** Computes metrics like `AVG`, `MIN`, `MAX`, `SUM`, and `COUNT` on filtered row sets.
 * 🛠️ **Interactive CLI Menu:** Easily insert rows manually, load bulk files, inspect tree levels, and execute dynamic queries.
